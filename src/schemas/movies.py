@@ -20,7 +20,7 @@ class MovieDetailResponseSchema(BaseModel):
     country: str
 
     model_config = {
-        "from_attributes":True
+        "from_attributes": True
     }
 
 
